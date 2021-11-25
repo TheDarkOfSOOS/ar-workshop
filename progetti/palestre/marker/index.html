@@ -17,14 +17,14 @@
         >
 
             <a-assets>
-              <a-asset-item id="tree-obj" src="./LogoSpace13.obj"></a-asset-item>
+              <a-asset-item id="model-glb" src="./LogoSpace13.glb"></a-asset-item>
               <a-asset-item id="tree-mtl" src="./LogoSpace13.mtl"></a-asset-item>
             </a-assets>
 
             <a-marker type="pattern" url="./pattern-fabiano_mini.patt">
 
                 <a-entity
-                    obj-model="obj: #tree-obj; mtl: #tree-mtl"
+                    glb-model="glb: #tree-glb; mtl: #tree-mtl"
                     scale="0.5 0.5 0.5"
                     class="clickable"
                     animation-mixer
