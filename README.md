@@ -8,5 +8,5 @@ Ci sarà una schermata di ingresso che darà il benvenuto all'utente e presenter
 ## Accedere al sito
 Per poter accedere al sito, basta andare al link seguente da dispositivo mobile: https://thedarkofsoos.github.io/ar-workshop/progetti/palestre/marker/
 
-Se si vuole si può anche scannerizzare il seguente QR Code che porta direttamente al sito:
+Se si vuole si può anche scannerizzare il seguente QR Code che porta direttamente al sito, integrato è presente anche il Marker:
 <img src="https://github.com/TheDarkOfSOOS/ar-workshop/blob/main/progetti/palestre/marker/QRcode.jpg" width="50%">
